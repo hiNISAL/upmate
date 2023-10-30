@@ -1,0 +1,19 @@
+{
+  "name": "upmate",
+  "version": "0.0.1",
+  "description": "A hot update tool implemented for private chrome extension manifest v3",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiNISAL/upmate.git"
+  },
+  "author": "ARAM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hiNISAL/upmate/issues"
+  },
+  "homepage": "https://github.com/hiNISAL/upmate#readme"
+}
